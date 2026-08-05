@@ -154,10 +154,6 @@ focus:
 
 ---
 
-# ✦ Philosophy
-
-> "The best AI engineers don't just train models.
-> They design systems."
 
 ---
 
@@ -189,15 +185,6 @@ focus:
 
 <div align="center">
 
-```text
-while(alive){
-    Learn();
-    Build();
-    Break();
-    Improve();
-    Repeat();
-}
-```
 
 ⭐ Thanks for visiting my profile.
 

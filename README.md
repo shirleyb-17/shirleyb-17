@@ -61,7 +61,7 @@
 
 ---
 
-## 🍞what im learning
+## 🍞what i have worked on
 
 ```text
 🥧 RAG pipelines & document chunking tools
@@ -92,12 +92,12 @@ UGC NET CS (Mar 2027)  ▓▓▓▓░░░░░░░░░░░░░░░
 ## 🐝 github stats,
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ily-17&show_icons=true&theme=cobalt2&hide_border=true&title_color=D8A7B1&icon_color=E5989B&text_color=EAC9C1&bg_color=00000000"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ily-17&theme=cobalt2&hide_border=true&background=00000000&ring=D8A7B1&fire=E5989B&currStreakLabel=EAC9C1"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shirleyb-17&show_icons=true&theme=cobalt2&hide_border=true&title_color=D8A7B1&icon_color=E5989B&text_color=EAC9C1&bg_color=00000000"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shirleyb-17&theme=cobalt2&hide_border=true&background=00000000&ring=D8A7B1&fire=E5989B&currStreakLabel=EAC9C1"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ily-17&layout=compact&theme=cobalt2&hide_border=true&title_color=D8A7B1&text_color=EAC9C1&bg_color=00000000"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirleyb-17&layout=compact&theme=cobalt2&hide_border=true&title_color=D8A7B1&text_color=EAC9C1&bg_color=00000000"/>
 </p>
 
 ---
@@ -112,7 +112,7 @@ UGC NET CS (Mar 2027)  ▓▓▓▓░░░░░░░░░░░░░░░
 ## 🍄 find me around 
 
 <p align="center">
-<a href="https://github.com/ily-17">
+<a href="https://github.com/shirleyb-17">
 <img src="https://img.shields.io/badge/GitHub-D8A7B1?style=for-the-badge&logo=github&logoColor=white&labelColor=B5838D"/>
 </a>
 

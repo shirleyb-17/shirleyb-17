@@ -1,8 +1,8 @@
 <div align="center">
 
-# ✿ hi, i'm shirley 🌸
+# ✿ HELLO, Im Shirley Deborah 🌸
 
-### *AI engineer by day, cottage dreamer always* 🍄🫖
+### *AI engineer by day* 🍄🫖
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&duration=3000&pause=1000&color=D8A7B1&center=true&vCenter=true&width=600&lines=welcome+to+my+little+corner+%F0%9F%8C%BC;brewing+RAG+pipelines+like+tea+%F0%9F%AB%96;building+cozy%2C+thoughtful+AI+%E2%9C%A8;always+learning%2C+always+growing+%F0%9F%8C%B1" />
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 🌼 what i tend to in my little garden
+## 🌼 what i know
 
 ```
 🌻 Generative AI & LLMs
@@ -39,7 +39,7 @@
 
 ---
 
-## 🧶 my cozy toolkit
+## 🧶 
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-D8A7B1?style=for-the-badge&logo=python&logoColor=white&labelColor=EAC9C1"/>
@@ -61,7 +61,7 @@
 
 ---
 
-## 🍞 what's baking in the kitchen
+## 🍞what im learning
 
 ```text
 🥧 RAG pipelines & document chunking tools
@@ -73,7 +73,7 @@
 
 ---
 
-## 🌾 seasons of growth *(current learning)*
+## 🌾(current learning)
 
 ```text
 Python & DSA          ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░  cozying up nicely
@@ -89,7 +89,7 @@ UGC NET CS (Mar 2027)  ▓▓▓▓░░░░░░░░░░░░░░░
 
 ---
 
-## 🐝 github stats, gathered like honey
+## 🐝 github stats,
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ily-17&show_icons=true&theme=cobalt2&hide_border=true&title_color=D8A7B1&icon_color=E5989B&text_color=EAC9C1&bg_color=00000000"/>
@@ -109,7 +109,7 @@ UGC NET CS (Mar 2027)  ▓▓▓▓░░░░░░░░░░░░░░░
 
 ---
 
-## 🍄 find me around the meadow
+## 🍄 find me around 
 
 <p align="center">
 <a href="https://github.com/ily-17">
@@ -133,6 +133,6 @@ UGC NET CS (Mar 2027)  ▓▓▓▓░░░░░░░░░░░░░░░
 
 <div align="center">
 
-🌼 thank you for visiting my little garden 🌼
+🌼 thank you for visiting my page🌼
 
 </div>

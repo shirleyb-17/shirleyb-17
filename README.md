@@ -15,26 +15,22 @@
 
 ---
 
-## ִׄ˚ • 🖥 ࣪˖ ⭑ ₊ ⭒ *ೃ༄ A little about meִִׄ˚ • 🖥 ࣪˖ ⭑ ₊ ⭒ *ೃ༄
+## ִׄ˚ • 🖥 ࣪˖ ⭑ ₊ ⭒ *ೃ༄ A little about me ִׄ˚ • 🖥 ࣪˖ ⭑ ₊ ⭒ *ೃ༄
 
 ```text
 ╭──────────────────────────────────────────────────────╮
-│                                                      │
-│  🖥  Shirley Deborah B                               │
-│      AI Engineer @ Bahwan CyberTek                   │
-│                                                      │
-│  ⭑  fascinated by AI, software & how things work     │
-  │ ✮ currently exploring DSA, LLMs & system design     │   
-│                                                     │
-  │ 🎧  usually somewhere between a cup of ,milk,      │
-│      a terminal window & a new idea                  │
-│                                                      │
-│  ⊹  learn deeply · build gently · ship thotfully    │
-│                                                      │
+│  🖥  Shirley Deborah B                                │
+│      AI Engineer @ Bahwan CyberTek                    │
+│                                                        │
+│  ⭑  fascinated by AI, software & how things work      │
+│  ✮  currently exploring DSA, LLMs & system design     │
+│                                                        │
+│  🎧  usually somewhere between a cup of milk,          │
+│      a terminal window & a new idea                   │
+│                                                        │
+│  ⊹  learn deeply · build gently · ship thoughtfully    │
 ╰──────────────────────────────────────────────────────╯
 ```
-
-<div align="center">
 
 <div align="center">
 
@@ -44,19 +40,13 @@
   alt="coding animation"
 />
 
-
 <sub>🎧 somewhere between a cup of milk and a terminal window</sub>
-<br>
-
-</div>
-
-<br>
 
 </div>
 
 ---
 
-## ˚｡𖦹 ⋆｡° things I like building˚｡𖦹 ⋆｡° 
+## ˚｡𖦹 ⋆｡° things I like building ˚｡𖦹 ⋆｡°
 
 <table align="center">
 <tr>
@@ -108,7 +98,7 @@ APIs, automation, serverless workflows, cloud services and the engineering under
 
 <br><br>
 
-### 💻AI & data
+### 💻 AI & data
 
 <img src="https://img.shields.io/badge/LLMs-8A63D2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge"/>
@@ -125,7 +115,7 @@ APIs, automation, serverless workflows, cloud services and the engineering under
 
 <br><br>
 
-### 🖥databases & tools
+### 🖥 databases & tools
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,postman,vscode&theme=light"/>
 
@@ -135,7 +125,7 @@ APIs, automation, serverless workflows, cloud services and the engineering under
 
 ## ✩ things I've worked on
 
-###  AI-powered SDLC
+### AI-powered SDLC
 
 > *What if a business requirement could become the beginning of a software project?*
 
@@ -250,7 +240,7 @@ UGC NET CS             ███████░░░░░░░░░░░░
 
 ---
 
-## ⭑✮💻 github garden✮⭑
+## ⭑✮💻 github garden ✮⭑
 
 <div align="center">
 
@@ -314,7 +304,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirleyb-17&
 <img src="https://img.shields.io/badge/GitHub-8A63D2?style=for-the-badge&logo=github&logoColor=white&labelColor=6C63FF"/>
 </a>
 
-<!-- ⋆.˚✮ LinkedIn-->
+<!-- ⋆.˚✮ LinkedIn -->
 <a href="https://www.linkedin.com/in/shirleydeborahb/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>

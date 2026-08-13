@@ -1,10 +1,9 @@
 <div align="center">
 
-# ✿ hello, I'm Shirley Deborah 🌸
+# ⋆.˚✮ hello, I'm Shirley Deborah 🖥
 
-### *AI Engineer · turning curious ideas into intelligent little things* 🍄
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&duration=3000&pause=1000&color=D8A7B1&center=true&vCenter=true&width=720&lines=welcome+to+my+little+corner+of+the+internet+%F0%9F%8C%BF;brewing+RAG+pipelines+%26+AI+agents+like+tea+%F0%9F%AB%96;turning+documents+into+knowledge+%F0%9F%8C%B1;teaching+machines+to+be+a+little+more+useful+%E2%9C%A8;learning%2C+building%2C+breaking%2C+repeating+%F0%9F%8C%B7" />
+### *AI Engineer · turning curious ideas into intelligent little things* ⭑
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&duration=3000&pause=1000&color=8A63D2&center=true&vCenter=true&width=720&lines=AI+Engineer+%7C+Generative+AI+%26+LLM+Systems;Building+RAG+%2C+Agentic+%26+Document+AI+Solutions;Designing+scalable+AI+%26+backend+systems;Working+with+LLMs%2C+embeddings+%26+vector+databases;Turning+ideas+into+reliable+AI+applications" />
 
 <br>
 
@@ -12,54 +11,58 @@
 
 <br>
 
-<sub>🌷 AI · RAG · software · curiosity · tiny experiments · big ideas 🌷</sub>
-
-</div>
+<sub>🌐 AI · RAG · software · curiosity · tiny experiments · big ideas ⊹</sub>
 
 ---
 
-## 🌷 a little about me
-
-<div align="center">
+## ִׄ˚ • 🖥 ࣪˖ ⭑ ₊ ⭒ *ೃ༄ A little about meִִׄ˚ • 🖥 ࣪˖ ⭑ ₊ ⭒ *ೃ༄
 
 ```text
 ╭──────────────────────────────────────────────────────╮
 │                                                      │
-│  🍯  Shirley Deborah B                               │
+│  🖥  Shirley Deborah B                               │
 │      AI Engineer @ Bahwan CyberTek                   │
 │                                                      │
-│  🌱  fascinated by AI, software & how things work    │
-│  🧠  currently exploring DSA, LLMs & system design   │
-│  📚  preparing for UGC NET CS                        │
-│                                                      │
-│  ☕  usually somewhere between a cup of tea,         │
+│  ⭑  fascinated by AI, software & how things work     │
+  │ ✮ currently exploring DSA, LLMs & system design     │   
+│                                                     │
+  │ 🎧  usually somewhere between a cup of ,milk,      │
 │      a terminal window & a new idea                  │
 │                                                      │
-│  🌸  learn deeply · build gently · ship thoughtfully │
+│  ⊹  learn deeply · build gently · ship thotfully    │
 │                                                      │
 ╰──────────────────────────────────────────────────────╯
-
-</div> ```
+```
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d3-4a01-9b5f-3288d193ba2c.gif" width="470">
+<div align="center">
 
+<img
+  src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
+  width="400"
+  alt="coding animation"
+/>
+
+
+<sub>🎧 somewhere between a cup of milk and a terminal window</sub>
 <br>
 
-<sub>☕ somewhere between a cup of tea and a terminal window</sub>
+</div>
+
+<br>
 
 </div>
 
 ---
 
-## 🍃 things I like building
+## ˚｡𖦹 ⋆｡° things I like building˚｡𖦹 ⋆｡° 
 
 <table align="center">
 <tr>
 <td width="50%">
 
-### 🌻 Generative AI
+### ✮ Generative AI
 
 LLMs, prompt engineering, intelligent workflows and applications that make technology a little more useful.
 
@@ -67,7 +70,7 @@ LLMs, prompt engineering, intelligent workflows and applications that make techn
 
 <td width="50%">
 
-### 🍄 RAG systems
+### ⭑ RAG systems
 
 Retrieval pipelines, embeddings, vector databases, chunking strategies and knowledge-grounded AI.
 
@@ -77,7 +80,7 @@ Retrieval pipelines, embeddings, vector databases, chunking strategies and knowl
 <tr>
 <td width="50%">
 
-### 🧵 Document Intelligence
+### 🖥 Document Intelligence
 
 Turning messy documents into structured information using OCR, extraction and AI workflows.
 
@@ -85,7 +88,7 @@ Turning messy documents into structured information using OCR, extraction and AI
 
 <td width="50%">
 
-### 🪴 Backend & Cloud
+### 🌐 Backend & Cloud
 
 APIs, automation, serverless workflows, cloud services and the engineering underneath AI applications.
 
@@ -95,34 +98,34 @@ APIs, automation, serverless workflows, cloud services and the engineering under
 
 ---
 
-## 🧶 things i had a little handas on with
+## ๋࣭ ⭑ things I've had a little hands-on with ๋࣭ ⭑
 
 <div align="center">
 
-### 🌸 languages & frameworks
+### ⋆.˚✮ languages & frameworks ✮°｡⋆
 
 <img src="https://skillicons.dev/icons?i=python,java,typescript,react,fastapi,spring&theme=light"/>
 
 <br><br>
 
-### 🍄 AI & data
+### 💻AI & data
 
-<img src="https://img.shields.io/badge/LLMs-D8A7B1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-EAC9C1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-BFA2A0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Qdrant-CB997E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-DDBEA9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-A3B18A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-8A63D2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-7B68EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qdrant-9370DB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-8A63D2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-6C63FF?style=for-the-badge"/>
 
 <br><br>
 
-### ☁️ cloud & engineering
+### 🌐 cloud & engineering
 
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,github,linux&theme=light"/>
 
 <br><br>
 
-### 🕯️ databases & tools
+### 🖥databases & tools
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,postman,vscode&theme=light"/>
 
@@ -130,9 +133,9 @@ APIs, automation, serverless workflows, cloud services and the engineering under
 
 ---
 
-## 🍞 things I've worked on
+## ✩ things I've worked on
 
-### 🫖 AI-powered SDLC
+###  AI-powered SDLC
 
 > *What if a business requirement could become the beginning of a software project?*
 
@@ -142,14 +145,14 @@ business requirements, RAG and LLMs to generate software artifacts.
 ```text
 📄 BRD
    │
-   ├── 🌱 extract
-   ├── 🍃 chunk
-   ├── 🔎 retrieve
-   ├── 🧠 reason
-   └── ✨ generate
+   ├── ⭑ extract
+   ├── ⭒ chunk
+   ├── ✮ retrieve
+   ├── 🖥 reason
+   └── ✩ generate
             │
             ▼
-       ☕ Spring Boot
+       💻 Spring Boot
        project
 ```
 
@@ -157,7 +160,7 @@ business requirements, RAG and LLMs to generate software artifacts.
 
 ---
 
-### 🍰 Knowledge & RAG systems
+### ⭒ Knowledge & RAG systems
 
 Building retrieval-augmented applications that allow LLMs to work with
 domain-specific knowledge rather than relying only on their training data.
@@ -172,7 +175,7 @@ question → retrieval → context → LLM → answer
 
 ---
 
-### 🧺 Document Intelligence
+### 🖥 Document Intelligence
 
 Working with document ingestion and extraction pipelines that transform
 PDFs and images into structured information.
@@ -180,38 +183,38 @@ PDFs and images into structured information.
 ```text
 📄 document
       ↓
-☁️ storage
+🌐 storage
       ↓
-🔍 extraction
+✮ extraction
       ↓
-🧾 structured data
+🖥 structured data
       ↓
-🤖 intelligent workflow
+💻 intelligent workflow
 ```
 
 `AWS S3` · `Textract` · `FastAPI` · `Streamlit`
 
 ---
 
-## 🌱 currently growing
+## ⋆.˚✮ currently growing ✮°｡⋆
 
 ```text
-                    my little learning garden
+                    my little learning dashboard
 
-Python & DSA          ████████████████░░░░░   🌱
-LLM Architecture      ███████████████░░░░░░   🌿
-RAG & Agents          ████████████████░░░░░   🍃
-System Design         ███████████░░░░░░░░░   🌱
-MLOps                  █████████░░░░░░░░░░░   🌾
-Kubernetes             ████████░░░░░░░░░░░░   🌱
-UGC NET CS             ███████░░░░░░░░░░░░░   🐌
+Python & DSA           ████████████████░░░░░   ⭑
+LLM Architecture       ███████████████░░░░░░   ✮
+RAG & Agents           ████████████████░░░░░   ⭒
+System Design          ███████████░░░░░░░░░░   ⭑
+MLOps                  █████████░░░░░░░░░░░░   ✩
+Kubernetes             ████████░░░░░░░░░░░░░   ⭑
+UGC NET CS             ███████░░░░░░░░░░░░░░   ⋆
 ```
 
-> *No rushing. Good things take time to grow.* 🌷
+> *No rushing. Good things take time to build.* ⊹
 
 ---
 
-## 🧠 the way I like to learn
+## 🖥 the way I like to learn
 
 <div align="center">
 
@@ -240,22 +243,22 @@ UGC NET CS             ███████░░░░░░░░░░░░
         │   IMPROVE   │
         └──────┬──────┘
                │
-               └──────────→ repeat 🌱
+               └──────────→ repeat ⭑
 ```
 
 </div>
 
 ---
 
-## 🐝 github garden
+## ⭑✮💻 github garden✮⭑
 
 <div align="center">
 
 <img height="165"
-src="https://github-readme-stats.vercel.app/api?username=shirleyb-17&show_icons=true&hide_border=true&title_color=D8A7B1&icon_color=E5989B&text_color=6D6875&bg_color=FFFDFB"/>
+src="https://github-readme-stats.vercel.app/api?username=shirleyb-17&show_icons=true&hide_border=true&title_color=8A63D2&icon_color=6C63FF&text_color=333333&bg_color=FFFFFF"/>
 
 <img height="165"
-src="https://github-readme-streak-stats.herokuapp.com/?user=shirleyb-17&hide_border=true&background=FFFDFB&ring=D8A7B1&fire=E5989B&currStreakLabel=B5838D&sideLabels=6D6875&dates=9A8C98"/>
+src="https://github-readme-streak-stats.herokuapp.com/?user=shirleyb-17&hide_border=true&background=FFFFFF&ring=8A63D2&fire=6C63FF&currStreakLabel=8A63D2"/>
 
 </div>
 
@@ -264,13 +267,13 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=shirleyb-17&hide_bor
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirleyb-17&layout=compact&hide_border=true&title_color=D8A7B1&text_color=6D6875&bg_color=FFFDFB"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirleyb-17&layout=compact&hide_border=true&title_color=8A63D2&text_color=333333&bg_color=FFFFFF"/>
 
 </div>
 
 ---
 
-## 🌼 a few things I believe
+## ⋆｡°✩ a few things I believe ✩°｡⋆
 
 <div align="center">
 
@@ -284,50 +287,43 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirleyb-17&
 
 <br>
 
-🌱 **learn** · 🧠 **understand** · 🛠️ **build** · 🐛 **debug** · ✨ **repeat**
+⭑ **learn** · ✮ **understand** · 🖥 **build** · ⭒ **debug** · ✩ **repeat**
 
 </div>
 
 ---
 
-## 🍵 when I'm not coding
+## ⋆.˚✮🎧✮˚.⋆ when I'm not coding ⋆.˚✮🎧✮˚.⋆
 
 ```text
 🎸 Guitar                  ████████████████
 📚 learning something      █████████████████████
 💻 building things         ██████████████████████
-🌱 collecting new ideas    █████████████████
-🎧 music + coding          ██████████████████
-🌙 late-night debugging    ███████████████
-
+⭑ collecting new ideas     █████████████████
+🎧 music + coding           ██████████████████
+🌐 late-night debugging     ███████████████
 ```
 
 ---
 
-## 🐇 find me around the internet
+## 🌐 find me around the internet
 
 <div align="center">
 
 <a href="https://github.com/shirleyb-17">
-<img src="https://img.shields.io/badge/GitHub-D8A7B1?style=for-the-badge&logo=github&logoColor=white&labelColor=B5838D"/>
+<img src="https://img.shields.io/badge/GitHub-8A63D2?style=for-the-badge&logo=github&logoColor=white&labelColor=6C63FF"/>
 </a>
 
-<!-- 🌷 LinkedIn -->
-
-<!--
+<!-- ⋆.˚✮ LinkedIn-->
 <a href="https://www.linkedin.com/in/shirleydeborahb/">
-<img src="https://img.shields.io/badge/LinkedIn-A3B18A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7F8C69"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
--->
 
-<!-- 🧺 Portfolio -->
-<!-- buliding my portfolio -->
-///<!--
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-CB997E?style=for-the-badge&logoColor=white&labelColor=9C6644"/>
+<!-- 🖥 Portfolio -->
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logoColor=white&labelColor=8A63D2"/>
 </a>
--->
-///
+
 </div>
 
 ---
@@ -336,7 +332,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirleyb-17&
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="120">
 
-### 🌷 thanks for wandering into my page 🌷
+### ⋆.˚✮ thanks for wandering into my page 🖥✩°｡⋆
 
 *may your builds be stable and your bugs be tiny*
 
@@ -345,4 +341,3 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirleyb-17&
 `made with curiosity & a suspicious number of commits`
 
 </div>
-```

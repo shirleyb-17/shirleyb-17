@@ -1,19 +1,18 @@
-````markdown
 <div align="center">
 
 # ✿ hello, I'm Shirley Deborah 🌸
 
-### *AI Engineer · builder of thoughtful little machines* 🍄
+### *AI Engineer · turning curious ideas into intelligent little things* 🍄
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&duration=3000&pause=1000&color=D8A7B1&center=true&vCenter=true&width=700&lines=welcome+to+my+little+corner+of+the+internet+%F0%9F%8C%BF;brewing+RAG+pipelines+like+tea+%F0%9F%AB%96;turning+documents+into+knowledge+%F0%9F%8C%B1;building+AI+systems+with+care+%E2%9C%A8;learning+something+new%2C+one+commit+at+a+time+%F0%9F%8C%B7" />
-
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="650">
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&duration=3000&pause=1000&color=D8A7B1&center=true&vCenter=true&width=720&lines=welcome+to+my+little+corner+of+the+internet+%F0%9F%8C%BF;brewing+RAG+pipelines+%26+AI+agents+like+tea+%F0%9F%AB%96;turning+documents+into+knowledge+%F0%9F%8C%B1;teaching+machines+to+be+a+little+more+useful+%E2%9C%A8;learning%2C+building%2C+breaking%2C+repeating+%F0%9F%8C%B7" />
 
 <br>
 
-<sub>🌷 AI · software · curiosity · tiny experiments · big ideas 🌷</sub>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="600">
+
+<br>
+
+<sub>🌷 AI · RAG · software · curiosity · tiny experiments · big ideas 🌷</sub>
 
 </div>
 
@@ -21,20 +20,26 @@
 
 ## 🌷 a little about me
 
+<div align="center">
+
 ```text
 ╭──────────────────────────────────────────────────────╮
 │                                                      │
-│  🍯 name       Shirley Deborah B                     │
-│  🌱 role       AI Engineer @ Bahwan CyberTek         │
-│  🏡 based      India                                 │
-│  🧺 currently  learning DSA, LLMs & system design    │
-│  🌸 preparing  UGC NET CS                            │
+│  🍯  Shirley Deborah B                               │
+│      AI Engineer @ Bahwan CyberTek                   │
 │                                                      │
-│  philosophy    learn deeply, build gently,            │
-│                ship thoughtfully.                    │
+│  🌱  fascinated by AI, software & how things work    │
+│  🧠  currently exploring DSA, LLMs & system design   │
+│  📚  preparing for UGC NET CS                        │
+│                                                      │
+│  ☕  usually somewhere between a cup of tea,         │
+│      a terminal window & a new idea                  │
+│                                                      │
+│  🌸  learn deeply · build gently · ship thoughtfully │
 │                                                      │
 ╰──────────────────────────────────────────────────────╯
-````
+
+</div> ```
 
 <div align="center">
 

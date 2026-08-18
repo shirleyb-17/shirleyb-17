@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⋆.˚✮ hello, I'm Shirley Deborah 🖥
+# ⋆.˚✮ Hello, I'm Shirley Deborah 🖥
 
 ### *AI Engineer · turning curious ideas into intelligent little things* ⭑
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&duration=3000&pause=1000&color=8A63D2&center=true&vCenter=true&width=720&lines=AI+Engineer+%7C+Generative+AI+%26+LLM+Systems;Building+RAG+%2C+Agentic+%26+Document+AI+Solutions;Designing+scalable+AI+%26+backend+systems;Working+with+LLMs%2C+embeddings+%26+vector+databases;Turning+ideas+into+reliable+AI+applications" />

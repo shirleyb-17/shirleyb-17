@@ -252,27 +252,6 @@ UGC NET CS             ███████░░░░░░░░░░░░
 
 ---
 
-## ⭑✮💻 github garden✮⭑
-
-<div align="center">
-
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=shirleyb-17&show_icons=true&hide_border=true&title_color=8A63D2&icon_color=6C63FF&text_color=333333&bg_color=FFFFFF"/>
-
-<img height="165"
-src="https://github-readme-streak-stats.herokuapp.com/?user=shirleyb-17&hide_border=true&background=FFFFFF&ring=8A63D2&fire=6C63FF&currStreakLabel=8A63D2"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirleyb-17&layout=compact&hide_border=true&title_color=8A63D2&text_color=333333&bg_color=FFFFFF"/>
-
-</div>
-
 ---
 
 ## ⋆｡°✩ a few things I believe ✩°｡⋆

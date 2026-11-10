@@ -213,7 +213,11 @@ UGC NET CS             ███████░░░░░░░░░░░░
 ```
 
 > *No rushing. Good things take time to build.* ⊹
+<br>
 
+<img src="https://i.pinimg.com/736x/60/34/64/6034640a4f94d45e5f192f17604db83e.jpg" width="600">
+
+<br>
 ---
 
 ## 🖥 the way I like to learn
